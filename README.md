@@ -1,3 +1,6 @@
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/34250a72-21b5-4324-92c9-cb659a9a5799" />
+
 # 🤖 NoBot - Fair Launch Terminal
 
 **Zero Gas Wars • No MEV • AI-Protected • Powered by Linera**
