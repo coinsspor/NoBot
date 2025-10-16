@@ -7,7 +7,7 @@
 
 NoBot is a fair launch platform that eliminates bot manipulation, gas wars, and MEV exploitation using Linera microchains and AI-powered eligibility checks.
 
-![NoBot Terminal](https://via.placeholder.com/1200x600/0a0a00/00ff00?text=NoBot+Terminal)
+
 
 ## ✨ Features
 
